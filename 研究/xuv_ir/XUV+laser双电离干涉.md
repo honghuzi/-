@@ -92,7 +92,7 @@ $$   P(k_1, k_2) = k_1k_2P(E_1,E_2)$$
    | w1   | w2   | I1   | I2      | $\tau$ | delay |
    | ---- | ---- | ---- | ------- | ------ | ----- |
    | 1.86 | 0.03 | 1e15 | I1/1000 | 16fs   | 0     |
-   [[file:figs/tdse-xuv+laser/1.png]] "XUV+IR")
+   !["XUV+IR"](figs/tdse-xuv+laser/1.png)
     
 ## 中等(5fs)脉冲 2XUV+IR I1 = I2
    | w1   | w2   | w3   | I1   | I2      | \tau | delay    |
